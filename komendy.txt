@@ -1,0 +1,14 @@
+git status
+
+git add .
+dodaje wszystkie zmodyfikowane pliki zeby git je widzial
+
+git commit
+git commit -m "twoja wiadomosc do commita"
+commituje zmiany , tj. robi update
+
+git pull origin main
+sciąga zmiany z servera
+
+git push origin main
+daje zmiany na server
